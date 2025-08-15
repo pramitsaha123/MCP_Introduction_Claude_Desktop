@@ -1,0 +1,27 @@
+[
+  {
+    "category": "food",
+    "date": "2025-08-01",
+    "amount": 250.0
+  },
+  {
+    "category": "travel",
+    "date": "2025-08-05",
+    "amount": 1500.0
+  },
+  {
+    "category": "food",
+    "date": "2025-08-10",
+    "amount": 300.0
+  },
+  {
+    "category": "entertainment",
+    "date": "2025-08-14",
+    "amount": 1200.0
+  },
+  {
+    "category": "groceries",
+    "date": "2025-08-13",
+    "amount": 450.0
+  }
+]
